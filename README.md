@@ -34,7 +34,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-  <<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apache_JMeter_logo.svg" alt="jmeter" width="40" height="40"/> </a>
 
 
 <br>
