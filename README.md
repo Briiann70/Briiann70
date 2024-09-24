@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
 </p>
-
+<br>
 <p align="center">
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/briiann70/" target="_blank">
