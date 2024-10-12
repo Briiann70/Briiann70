@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brian Daniel Napitupulu</h1>
-<h3 align="center">Backend | DevOps</h3>
+# 💫 About Me:
+👋 Hi, I’m Brian Daninel Napitupulu<br>
+👀 I’m interested in Softwaee Engineer (Backend)<br>
+💞️ I’m looking to collaborate on Application/Website<br>
+📫 How to reach me briandaniel.napitupulu@gmail.com, [linkedin](https://www.linkedin.com/in/briiann70/)
 
-
-- 🔭 I am a freshgraduate currently **seeking job opportunities**
-
-- 🌱 I’m currently learning **Go language, PostgreSQL, AWS, Microservices**
-
-
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/briiann70/), [instagram](https://www.instagram.com/briiann70/) or by [mail](mailto:briandaniel.napitupulu@gmail.com)
-
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
 <br>
-  <h3 align= "center">Connect with me:</h3>
+###Connect with me:
   <p align="center">
   <a href="https://www.linkedin.com/in/briiann70/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -100,4 +92,10 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
+</p>
+
+### Stats:
+<p>
+     <img src="https://github-readme-stats.vercel.app/api?username=Briiann70&show_icons=true&bg_color=00000000" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiann70&layout=compact" height=180 />
 </p>
