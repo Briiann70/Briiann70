@@ -5,6 +5,7 @@
 📫 How to reach me briandaniel.napitupulu@gmail.com, [linkedin](https://www.linkedin.com/in/briiann70/)
 
 <br>
+
 ### Connect with me:
   <p align="center">
   <a href="https://www.linkedin.com/in/briiann70/" target="_blank">
@@ -16,7 +17,7 @@
   </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="center">
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
