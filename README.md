@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Brian Daninel Napitupulu<br>
 👀 I’m interested in Softwaee Engineer (Backend)<br>
-💞️ I’m looking to collaborate on Application/Website<br>
+💞️ I’m looking to collaborate on Application/Website/IoT<br>
 📫 How to reach me briandaniel.napitupulu@gmail.com, [linkedin](https://www.linkedin.com/in/briiann70/)
 
 <br>
